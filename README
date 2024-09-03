@@ -1,0 +1,22 @@
+Make a program to read the data of N figures (N provided by the user),
+and then display the areas of these figures in the same order in which
+they were entered.
+
+//Output terminal:
+
+Enter the number of shapes: 2
+
+Shape #1 data:
+Rectangle or Circle (r/c)? r
+Color (BLACK/BLUE/RED): BLACK
+Width: 4
+Height: 5
+
+Shape #2 data:
+Rectangle or Circle (r/c)? c
+Color (BLACK/BLUE/RED): RED
+Radius: 3
+
+SHAPE AREAS:
+20,00
+28,27
